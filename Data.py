@@ -20,13 +20,13 @@ By @NA_VA_N_JA_NA1
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("🤖 Bot Status and More Bots 🤖", url="https://t.me/NightVission")],
+        [InlineKeyboardButton("🤖 Bot Status and More Bots 🤖", url="https://t.me/EpicBotsSl")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("♾️ About ♾️", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/NightVission")],
-        [InlineKeyboardButton("🛫 Support Group 🛫", url="https://t.me/NightVissionSupport")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/EpicBotsSl")],
+        [InlineKeyboardButton("🛫 Support Group 🛫", url="https://t.me/EpicChats")],
     ]
 
     # Help Message
@@ -50,9 +50,9 @@ Alternative Commands
     ABOUT = """
 **About This Bot** 
 
-A telegram channel automation bot by @NightVission
+A telegram channel automation bot by @EpicBots
 
-Source Code : [Click Here](https://github.com/Captainamarica/NightVission-ChanelBot)
+Source Code : [Click Here](https://github.com/EpicBotSl/ControlerBot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
