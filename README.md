@@ -1,4 +1,4 @@
-# Channel Automation Bot [@NIGHT VISSION CHANEL BOT](https://t.me/dark_channel_autobot)
+# Channel Automation Bot
 
 > A star ⭐ from you means a lot to us!
 
